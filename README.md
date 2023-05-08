@@ -8,6 +8,6 @@ Command Line Program with API weather conditions with OpenWeather and MapBox for
 
 ## Screenshots
 
-![WeatherApp](https://github.com/andcama/PokemonApp/blob/master/src/assets/poke1.png "Image 1 ")
-![WeatherApp](https://github.com/andcama/PokemonApp/blob/master/src/assets/poke2.png "Image 2")
-![WeatherApp](https://github.com/andcama/PokemonApp/blob/master/src/assets/poke3.png "Image 3")
+![WeatherApp](https://github.com/andcama/WeatherCLI/blob/master/assets/Screenshot2.png "Image 1 ")
+![WeatherApp](https://github.com/andcama/WeatherCLI/blob/master/assets/Screenshot3.png "Image 2")
+![WeatherApp](https://github.com/andcama/WeatherCLI/blob/master/assets/Screenshot4.png "Image 3")
